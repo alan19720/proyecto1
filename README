@@ -1,0 +1,22 @@
+Proyecto de Ciencia de Datos: Predicción de Precios de Viviendas en la India
+Hogar en la India
+
+Descripción del Proyecto
+Este proyecto de ciencia de datos se centra en predecir los precios de las viviendas en la India. El objetivo principal es desarrollar un modelo de aprendizaje automático preciso que pueda estimar el precio de una vivienda en función de diversas características, como la ubicación, el tamaño, el número de habitaciones, la antigüedad, etc.
+
+Contenido del Repositorio
+data/: Este directorio contiene el conjunto de datos utilizado para entrenar y evaluar el modelo de predicción. Los datos se recopilaron de diversas fuentes confiables y se encuentran en formato CSV.
+
+notebook/: Aquí encontrarás el cuaderno de Jupyter utilizado durante el proceso de análisis de datos, limpieza, exploración . 
+
+reports/: En este directorio, encontrarás informes y visualizaciones generadas durante el análisis exploratorio de datos y la evaluación del modelo. Esto incluye gráficos, tablas y métricas clave.
+
+Dependencias
+El proyecto se ha desarrollado utilizando las siguientes bibliotecas de Python:
+
+Pandas
+Matplotlib
+Seaborn
+Jupyter Notebook (para la exploración y el análisis)
+
+
